@@ -1,2 +1,2 @@
 # github-exercises
-A repo to test out GitHub
+# Our New Software Company!
