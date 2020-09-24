@@ -1,2 +1,3 @@
 # github-exercises
-A repo to test out GitHub
+A repo for Michael, Delaine, and Chris to learn about GitHub
+
